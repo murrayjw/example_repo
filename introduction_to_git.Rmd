@@ -21,3 +21,4 @@ Git is a version control system for tracking a set of files.
 - commit
 - branch
 - merge
+- revert
