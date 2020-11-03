@@ -1,0 +1,13 @@
+---
+title: "Introduction to git"
+output:
+  html_document
+---
+
+# Introduction to Git
+
+This document introduces students to using git
+
+## What is git?
+
+Git is a version control
