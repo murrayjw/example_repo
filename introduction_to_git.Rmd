@@ -11,4 +11,13 @@ This document introduces students to using git
 
 ## What is git?
 
-Git is a version control
+Git is a version control system for tracking a set of files.
+
+## Git commands
+
+- push
+- pull 
+- add
+- commit
+- branch
+- merge
